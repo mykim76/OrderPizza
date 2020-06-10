@@ -34,7 +34,8 @@ dependencies {
     implementation 'de.hdodenhof:circleimageview:3.1.0'
     implementation 'com.github.chrisbanes:PhotoView:2.3.0'
     implementation 'gun0912.ted:tedpermission:2.2.3'
-    implementation 'com.android.support:design:29.0.3'
+    implementation 'com.android.support:design:29.0.3' //탭 쓰기
+    implementation 'com.github.bumptech.glide:glide:4.11.0' // 피자로고 쓰기
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
